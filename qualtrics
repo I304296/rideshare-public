@@ -1,0 +1,9 @@
+#
+#Sat May 16 04:21:03 UTC 2020
+URL=https\://ca1.qualtrics.com/inbound-event/v1/events/JSON/triggers?contextId\=SV_e5Pp4ryBIX9U0F7&userId\=UR_4SAYmA4jEYza6sB&brandId\=sapdevelopment&triggerId\=OC_2X1cp7vehxVvaZl
+Name=qualtrics
+ProxyType=Internet
+Type=HTTP
+token=coWjrFVTreHrHJqGFmGmMl83BYxASo2MCheQQ1bL
+Authentication=NoAuthentication
+Description=qualtrics
